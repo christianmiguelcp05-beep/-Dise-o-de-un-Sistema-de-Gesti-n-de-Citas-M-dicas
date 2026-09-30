@@ -166,4 +166,4 @@ Dejando puntos de extensión solo donde ya se sabe que habrá cambios (en este c
 
 ## Autor
 
-Christian Miguel, estudiante del Instituto Tecnológico de Las Américas (ITLA).
+Christian Crespo, estudiante del Instituto Tecnológico de Las Américas (ITLA).
